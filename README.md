@@ -1,3 +1,4 @@
+# Hello World!, I'm Aldi, a Junior Web Developer 👋🏼:
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9K2vvna5cb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.by__rap) 
@@ -9,4 +10,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rapsign&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rapsign/rapsign/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rapsign/rapsign/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rapsign/rapsign/output/snake.svg" />
+</picture>
