@@ -1,4 +1,4 @@
-# Hello World!, I'm Aldi, a Junior Web Developer 👋🏼:
+# Hello World!, I'm Aldi, a Junior Web Developer 👋🏼
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9K2vvna5cb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.by__rap) 
