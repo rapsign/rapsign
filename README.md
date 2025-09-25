@@ -1,4 +1,4 @@
-# Hello World!, I'm Aldi, a Software Developer 👋🏼
+# Hello World!, I'm Aldi, a Full-Stack Web Developer 👋🏼
 
 Hi, I'm a software developer with a strong background in Laravel, CodeIgniter 4, and web development technologies. I am passionate about building efficient and scalable applications, and I enjoy tackling challenges with clean and maintainable code.
 
