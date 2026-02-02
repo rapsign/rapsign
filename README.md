@@ -1,6 +1,6 @@
-# Hello World!, I'm Aldi, a Full-Stack Web Developer 👋🏼
+# Hello World!, I'm Aldi, a Full-Stack Developer 👋🏼
 
-Hi, I'm a Full-Stack Web Developer with a strong background in Laravel, CodeIgniter 4, and web development technologies. I am passionate about building efficient and scalable applications, and I enjoy tackling challenges with clean and maintainable code.
+Hi, I'm a Full-Stack Developer with a strong background in Laravel, CodeIgniter 4, and web development technologies. I am passionate about building efficient and scalable applications, and I enjoy tackling challenges with clean and maintainable code.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9K2vvna5cb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.by__rap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rinaldiaprayuda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renaldiprayuda11@gmail.com) 
